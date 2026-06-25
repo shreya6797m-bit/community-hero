@@ -1,0 +1,6 @@
+{
+  "name": "Community Issue Reporting Platform",
+  "description": "A citizen platform for reporting and tracking local community issues with AI-powered categorization, interactive maps, dynamic status tracking, community upvoting, and an impact dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
